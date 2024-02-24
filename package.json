@@ -1,0 +1,19 @@
+{
+  "name": "loan-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "loan-cli": "bin/cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "francis_fh <francis_fhh@outlook.com>",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^9.1.0",
+    "download-git-repo": "^3.0.2",
+    "inquirer": "^8.2.1"
+  }
+}
